@@ -1,6 +1,6 @@
 name: testingtopchimp
 favicon: null
-layout_spectrum: 0.048754608957096934
+layout_spectrum: 0.87793
 typography_spectrum: 0.9583988713566214
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#eeede9'
+    - '#171314'
+    - '#615d54'
+    - '#df8f9a'
+    - '#00768e'
   brandStrength: 0.6609443768393248
   lightness: 0.5223901893477887
   saturation: 0.7188830063678324
