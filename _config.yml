@@ -1,0 +1,28 @@
+name: testingtopchimp
+favicon: null
+layout_spectrum: 0.048754608957096934
+typography_spectrum: 0.9583988713566214
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6609443768393248
+  lightness: 0.5223901893477887
+  saturation: 0.7188830063678324
+  rhythmicContrast: 0.09498724481090903
+purpose: []
