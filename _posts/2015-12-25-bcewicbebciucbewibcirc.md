@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-25T17:26:45.709Z'
-dateModified: '2015-12-25T17:26:33.906Z'
+datePublished: '2015-12-25T18:16:04.480Z'
+dateModified: '2015-12-25T18:15:43.993Z'
 title: bcewicbebciuc;bewibcir;c
 author: []
+sourcePath: _posts/2015-12-25-bcewicbebciucbewibcirc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-25-bcewicbebciucbewibcirc.md
-published: true
 url: bcewicbebciucbewibcirc/index.html
 _type: Article
 
@@ -36,5 +36,4 @@ _hjewdj_
 * rcureicubeirubc
 * hbehd
 * eidei
-* * null
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6f0af28-f40f-497c-9d70-337478568b9b.jpg)
+* * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6f0af28-f40f-497c-9d70-337478568b9b.jpg)
