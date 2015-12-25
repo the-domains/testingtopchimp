@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[testingtopchimp]]></title>
         <description><![CDATA[testingtopchimp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testingtopchimp/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Dec 2015 17:26:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Dec 2015 18:16:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testingtopchimp/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[bcewicbebciuc;bewibcir;c]]></title>
             <description><![CDATA[<article><h1>bcewicbebciuc;bewibcir;c</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b905d1262a9f51a129a6dccfdf9740e88abfd130.jpg"></article>]]></description>
-            <link>undefinedbcewicbebciucbewibcirc/index.html</link>
+            <link>https://thegrid.ai/testingtopchimp/bcewicbebciucbewibcirc/index.html</link>
             <guid isPermaLink="false">26c9eee9-59f5-4141-a85c-5702991f18ef</guid>
-            <pubDate>Fri, 25 Dec 2015 17:26:45 GMT</pubDate>
+            <pubDate>Fri, 25 Dec 2015 18:16:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
