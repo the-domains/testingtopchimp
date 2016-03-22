@@ -1,8 +1,7 @@
-layout_spectrum: 0.7437276
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: testingtopchimp
+favicon: null
+layout_spectrum: 0.02015
+typography_spectrum: 0.73145
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4462366
-  brandStrength: 0.6609443768393248
-  lightness: 0.7258065
   brandColors:
     - '#eeede9'
     - '#171314'
     - '#615d54'
     - '#df8f9a'
     - '#00768e'
+  brandStrength: 0.6609443768393248
+  lightness: 0.7258065
+  saturation: 0.4462366
   rhythmicContrast: 0.8566308
-typography_spectrum: 0.73145
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: testingtopchimp
+purpose: []
